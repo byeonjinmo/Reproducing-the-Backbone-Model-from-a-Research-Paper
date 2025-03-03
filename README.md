@@ -1,2 +1,3 @@
--	Conducting data augmentation and preprocessing for facial recognition using the CelebA dataset.
--	Implementing a paper's model with 5 Convolutional Layers and 3 Fully Connected Layers, including parameter calculations.
+- Implemented and studied backbone network architectures, including AlexNet, VGG16, ResNet, and
+  ViViT.
+- l Applied fundamental techniques such as data augmentation, learning rate adjustment, and regularization.
